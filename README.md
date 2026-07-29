@@ -13,11 +13,6 @@ This repository documents my journey of learning Java from scratch.
 ## Progress
 
 ### Module 2
-- [ ] Day 6 - Programming Foundations
-- [ ] Day 7 - Operators
-- [ ] Day 8 - Data Types
-- [ ] Day 9 - Reading Inputs
-- [ ] Day 10 - Operators
 - [ ] Day 11 - If Else
 - [ ] Day 12 - If Else Lab
 - [ ] Day 13 - Loops
