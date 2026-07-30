@@ -10,12 +10,12 @@ public class LargestOfThree {
         int c = sc.nextInt();
 
         if (a>=b && a>=c){
-            System.out.println("Laegest Number is = "+a);
+            System.out.println("Largest Number is = "+a);
         }
         else if (b>=a && b>=c){
-            System.out.println("Laegest Number is = "+b);
+            System.out.println("Largest Number is = "+b);
         }
-        else System.out.println("Laegest Number is = "+c);
+        else System.out.println("Largest Number is = "+c);
 
         
     sc.close();
