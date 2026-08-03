@@ -6,12 +6,7 @@ public class LeapYear {
 
         int a = sc.nextInt();
 
-        //if (a%100!=0 &&(a%4==0))
-
-        if (a%4==0){
-            System.out.println("Leap Year");
-        }
-        else if ((a%4==0 && a%100==0) || (a%400!=0)){
+        if ((a%400==0)||((a%4==0)&&(a%100!=0))){
             System.out.println("Leap Year");
         }
         else {
